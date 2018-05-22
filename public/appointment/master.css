@@ -1,0 +1,634 @@
+/* GOOGLE FONTS */
+@import url("https://fonts.googleapis.com/css?family=Asap:400,700,400italic,700italic");
+@import url("https://fonts.googleapis.com/css?family=Asap:400,700,400italic,700italic");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,300,400,700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:500,600,700,800,400,200,300");
+@import url("https://fonts.googleapis.com/css?family=Francois+One&subset=latin,latin-ext");
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    background-color: #fdfffb;
+
+}
+
+img {
+    height: 300px;
+}
+
+.bord {
+    border-left: 1px;
+}
+
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    width:100%;
+}
+
+.container table {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 20px;
+    border: 2px solid #57AED1;
+    width: 100%;
+}
+
+.container table {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 20px;
+    border: 2px solid #57AED1;
+}
+
+/* scial media icon */
+.social-media {
+    width: 200px;
+    float: left;
+}
+
+#contact-info {
+    float: right;
+    width: 300px;
+}
+
+#contact-form {
+    float: left;
+    width: 600px;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.col-lg-5 {
+    width: 31%;
+    float: left;
+}
+
+.nav-bar {
+    border-radius: 0px;
+}
+
+#navbar {
+    color: red;
+    margin: auto 490px;
+}
+
+.navbar-merab {
+    background-color: #f2f7fa;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-left: 120px;
+    border: none;
+    border-color: #2789e2;
+}
+
+.navi {
+    margin: 0px;
+}
+
+.nav-bar {
+    margin-bottom: 0px;
+}
+
+.navbar-meco {
+    background-color: #363636;
+    margin-top: 0px;
+    border: none;
+}
+
+.navbar-undermerabi {
+    background-color: #fff;
+    cursor: pointer;
+    font-size: 1.9em;
+    color: #000;
+    padding-left: 0px;
+    padding-top: 21px;
+    min-height: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: none;
+}
+
+.navbar-undermeco {
+    background-color: #fff;
+
+    cursor: pointer;
+    font-size: 1.9em;
+    color: #000;
+    padding-left: 89px;
+    padding-top: 21px;
+
+    min-height: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: none;
+}
+
+.navbar-undermeco-sx {
+    background-color: #fff;
+
+    cursor: pointer;
+    font-size: 1.9em;
+    color: #000;
+    padding-left: 15px;
+    padding-top: 21px;
+
+    min-height: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: none;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.input-group {
+    padding-top: 100px;
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    padding-right: 0;
+    width: 340px;
+}
+
+.container-nav {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.content {
+    margin-bottom: 50px;
+}
+
+.container {
+    padding: 0;
+}
+
+.auth-buttons {
+    float: right;
+
+}
+
+.auth-buttons ul > li {
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+    border-radius: 2px solid grey;
+
+}
+
+@media (min-width: 992px) {
+    .col-md-5 {
+        width: 800px;
+    }
+}
+
+.col-lg-4 {
+    width: 31%;
+    align-content: center;
+}
+
+.col-xs-offset-1 {
+    margin-left: 3.333333%;
+}
+
+.text {
+    text-align: justify;
+    margin: 0px 15px;
+}
+
+.text-m {
+    text-align: justify;
+
+}
+
+.category {
+    color: #2886e3;
+    font-weight: bolder;
+    font-size: 20px;
+    font-size: 18px;
+    margin: 41px 0px 13px 2px;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    padding: 9px;
+    line-height: 1.428571;
+    height: 34px;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 0px solid #ddd;
+}
+
+.col-lg-12-top {
+
+    width: 100%;
+    background-color: #2789e2;
+    height: 5px;
+}
+
+.col-lg-12-m {
+    padding-top: 1px;
+    font-family: Raleway;
+
+    height: 250px;
+    color: #fff;
+    text-align: center;
+
+}
+
+.col-lg-12-m span {
+    font-size: 36px;
+
+}
+
+.menu-list li > a {
+    font-size: 0.9em;
+    color: #FFFFFF;
+    list-style-type: none;
+
+}
+
+a.active {
+    background-color: #358914;
+}
+
+
+
+li a {
+    color: #f9fafc;
+    display: block;
+    line-height: 62px;
+    padding: 0 20px;
+    text-decoration: none;
+    font-size:1.0em;
+}
+
+
+.menu-list li > a:hover {
+    color: green;
+}
+
+.menu-list li > a:active {
+    color: red;
+}
+
+
+.navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+    padding-right: 0;
+    font-size: 15px;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 18px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+#home {
+}
+
+#responsive-menu {
+    float: left;
+}
+
+.carousel {
+    position: relative;
+    padding-top: 0.5px;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+
+.carousel-control .icon-next, .carousel-control .glyphicon-chevron-right {
+    right: 50%;
+    margin-right: -10px;
+}
+
+.carousel-control .icon-prev, .carousel-control .icon-next, .carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right {
+    position: absolute;
+    top: 60%;
+    z-index: 5;
+    display: inline-block;
+}
+
+.carousel-indicators .active {
+    width: 15px;
+    height: 15px;
+    margin: 0;
+    background-color: #335ab7;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000 \9;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #335ab7;
+    border-radius: 13px;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 0px;
+    padding-bottom: 40px;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    text-shadow: 0 2px 4px #000;
+}
+
+/* Footer container style */
+
+.footer-container {
+    float: left;
+}
+
+.copyright p {
+    text-align: center;
+    padding: 14px;
+    color: #FFFFFF;
+    font-size: 13px;
+}
+
+.head-text {
+    font-size: 20px;
+    font-family: Raleway, sans-serif;
+}
+
+#noti-container {
+    position: relative;
+
+}
+
+#noti-button {
+
+    color: #1da1f2;
+    font-size: 1.5em;
+}
+
+/* THE POPULAR RED NOTIFICATIONS COUNTER. */
+#noti-counter {
+    display: block;
+    position: absolute;
+    background: #E1141E;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 1px 3px;
+    margin: -8px 0 0 25px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    z-index: 1;
+}
+
+/* THE NOTIFICAIONS WINDOW. THIS REMAINS HIDDEN WHEN THE PAGE LOADS. */
+#notifications {
+    display: none;
+    width: 430px;
+    position: absolute;
+    top: 30px;
+    right: 0;
+    background: #FFF;
+    border: solid 1px rgba(100, 100, 100, .20);
+    -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .20);
+    z-index: 2;
+    overflow: scroll;
+
+}
+
+/* AN ARROW LIKE STRUCTURE JUST OVER THE NOTIFICATIONS WINDOW */
+#notifications:before {
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    color: transparent;
+    border: 10px solid #CCC;
+    border-color: transparent transparent #FFF;
+    margin-top: -19px;
+    margin-left: 400px;
+}
+
+h3 {
+    display: block;
+    color: #333;
+    background: #FFF;
+    font-weight: bold;
+    font-size: 13px;
+    padding: 8px;
+    margin: 0;
+}
+
+.seeAll {
+    background: #F6F7F8;
+    padding: 8px;
+    font-size: 12px;
+    font-weight: bold;
+    border-top: solid 1px rgba(100, 100, 100, .30);
+    text-align: center;
+}
+
+.seeAll a {
+    color: #3b5998;
+}
+
+.seeAll a:hover {
+    background: #F6F7F8;
+    color: #3b5998;
+    text-decoration: underline;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #ddd
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-menu li {
+    background-color: #3E6088;
+}
+
+#notification-message {
+    padding-left: 5px;
+}
+
+/*dashboard */
+.dashboard-detail {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+.dashboard-detail a{
+    padding:5px;
+}
+
+.doctor-count {
+    width: 160px;
+    height: 100px;
+    float: left;
+    margin-right: 20px;
+    text-align: center;
+    padding: 5px;
+    background-color: #6F69B5;
+}
+
+.patient-count {
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-right: 20px;
+    text-align: center;
+    padding: 5px;
+    background-color: #699DE6;
+}
+
+.noti-count {
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-right: 20px;
+    padding: 5px;
+    text-align: center;
+    background-color: #699DE6;
+}
+
+.appointment-count {
+    width: 200px;
+    height: 100px;
+    float: left;
+    text-align: center;
+    margin-right: 20px;
+    padding: 5px;
+    background-color: #73b2b5;
+}
+
+.appointment-count-today {
+    width: 200px;
+    height: 100px;
+    float: left;
+    text-align: center;
+    margin-right: 20px;
+    padding: 5px;
+    background-color: #60B99D;
+}
+
+.data {
+    font-size: 4em;
+    font-family: Raleway, sans-serif;
+    color: #fdfffb;
+    text-align: center;
+}
+
+/*dashboard */
+
+/*appointmentDetail
+ */
+.appointment-detail {
+    border: 1px solid #1f648b;
+    padding: 5px;
+    margin-bottom: 50px;
+}
+
+.appointment-detail_header h3 {
+    font-size: 1em;
+    padding: 2px;
+    margin-top: 2px;
+}
+
+.appointment-detail-header-left {
+    float: left;
+}
+
+.appointment-detail-header-right {
+    float: right;
+}
+
+.appointment .patient-app .doctor-app table {
+    text-align: center;
+}
+
+/*end appointmet detail */
+.form-update {
+    width: 100%;
+}
+
+.form-update .form-group {
+    padding: 4px;
+}
+
+.form-update .form-group {
+    padding: 10px;
+}
+
+.form-update .form-group label {
+    width: 100%;
+    float: left;
+}
+
+.form-update .form-group .form-control {
+    width: 100%;
+    float: right;
+}
+
+#formStoreSchedule .form-group {
+    padding: 5px;
+    margin: auto;
+}
+
+.flash-message {
+    padding: 5px;
+}
+.pagination {
+    margin-top:-20px;
+    display: block;
+}
+
+.search-box {
+    margin:auto 400px;
+    margin-top: -50px;
+}

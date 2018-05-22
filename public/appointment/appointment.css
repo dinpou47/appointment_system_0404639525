@@ -1,0 +1,25 @@
+
+.navigation {
+    background-color: #6CBBAE;
+}
+
+.app {
+    margin: auto 10%;
+    background-color: #FFFFFF;
+
+}
+
+.form-style {
+    max-width: 100%;
+    padding: 10px 20px;
+    background: #FFFFFF;
+    margin: 10px auto;
+    padding: 20px;
+    font-size: 1.1em;
+}
+
+.container {
+    margin-top: 200px;
+}
+
+
